@@ -14,4 +14,4 @@ For none ablation dataset change to: from .mmlu_eval_none_ablation import MMLUEv
 
 Run to evaluate mmlu:
 
-python -m simple-evals.simple_evals --model gpt-4o-mini
+python -m mmlu.simple_evals --model gpt-4o-mini
