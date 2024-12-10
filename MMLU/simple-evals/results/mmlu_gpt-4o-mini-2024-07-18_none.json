@@ -1,0 +1,12 @@
+{
+  "humanities": 0.48,
+  "humanities:std": 0.4995998398718719,
+  "score:std": 0.4668607929565301,
+  "other": 0.732,
+  "other:std": 0.4429175995600084,
+  "social_sciences": 0.72,
+  "social_sciences:std": 0.44899888641287294,
+  "stem": 0.784,
+  "stem:std": 0.41151427678757396,
+  "score": 0.679
+}
